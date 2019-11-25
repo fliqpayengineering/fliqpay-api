@@ -1,0 +1,30 @@
+{
+  "name": "fliqpay-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fliqpayengineering/fliqpay-api.git"
+  },
+  "author": "Shola Abimbola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fliqpayengineering/fliqpay-api/issues"
+  },
+  "homepage": "https://github.com/fliqpayengineering/fliqpay-api#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "@types/nodemon": "^1.19.0",
+    "ts-node": "^8.5.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.5.32",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12"
+  }
+}
